@@ -7,5 +7,6 @@
 [wasm in 100 seconds video](https://www.youtube.com/watch?v=cbB3QEwWMlA)<br>  
 
 [what is webassembly article](https://thenewstack.io/webassembly/what-is-webassembly/)<br>  
-[assemblyscript](https://www.assemblyscript.org/)
+[assemblyscript](https://www.assemblyscript.org/)<br>  
+[rustlang wasm](https://www.rust-lang.org/what/wasm)
 
