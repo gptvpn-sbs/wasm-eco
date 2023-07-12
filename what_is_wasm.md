@@ -10,5 +10,9 @@
 [assemblyscript](https://www.assemblyscript.org/)<br>  
 [rustlang wasm](https://www.rust-lang.org/what/wasm)<br>  
 [Run WebAssemblies in VS Code for the Web](https://code.visualstudio.com/blogs/2023/06/05/vscode-wasm-wasi)<br>  
+# git repo<br>  
+
+[😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.](https://github.com/mbasso/awesome-wasm)<br>  
+
 
 
